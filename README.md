@@ -7,4 +7,9 @@ The dataset used in this project is from The Nobel Foundation on Kaggle.
 
 
 
+
+
 ![image](https://user-images.githubusercontent.com/95649144/183224377-85755696-2161-4753-98be-84b62f2b9a00.png)
+
+
+![image](https://user-images.githubusercontent.com/95649144/183224793-1b276774-f89d-4b65-bd7c-0240dcb56301.png)
