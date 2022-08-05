@@ -79,6 +79,10 @@ ggplot(nobel_age, aes(year, age, fill = "blue")) + geom_point() + geom_smooth() 
 
 
 
+![image](https://user-images.githubusercontent.com/95649144/183224377-85755696-2161-4753-98be-84b62f2b9a00.png)
+
+
+
 # number of prizes won by categories
 prize_category<- nobel_age %>% 
   group_by(category) %>% 
@@ -93,6 +97,8 @@ ggplot(prize_category, aes(category, n, fill = "red")) +
                           geom_col() + labs(y="number_of_prizes",
                          title = "number of prizes won by categories",
                         subtitle = "Medicine has the highest prizes")
+
+
 
 
 
