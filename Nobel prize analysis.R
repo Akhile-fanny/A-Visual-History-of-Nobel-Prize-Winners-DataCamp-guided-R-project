@@ -96,8 +96,6 @@ ggplot(prize_category, aes(category, n, fill = "red")) +
 
 
 
-
-
 #country and prizes won
 
 nobel %>% 
